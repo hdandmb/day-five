@@ -11,3 +11,21 @@
 // Ask the user to confirm something and console log their response
 
 // Ask the user a question and console log their response
+
+
+
+var camelCaseVariable = "var is the keyword";
+console.log("I don't have a favorite movie");
+/*
+Chow mein
+avocado
+bagels
+*/
+
+console.log(alert('Ring the Alarm'));
+
+var userConfirmation = confirm('is this the best way to do this?');
+console.log(userConfirmation);
+
+var userBirthday = prompt('What is your birthday?');
+console.log(userBirthday + '! That is an excellent birthday!');
