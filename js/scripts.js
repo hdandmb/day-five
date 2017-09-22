@@ -22,7 +22,7 @@ avocado
 bagels
 */
 
-console.log(alert('Ring the Alarm'));
+console.log('Ring the Alarm');
 
 var userConfirmation = confirm('is this the best way to do this?');
 console.log(userConfirmation);
